@@ -13,3 +13,6 @@ Pequeñas automatizaciones en windows
 - Click derecho > Nuevo > Valor de cadena
   
 ![image](https://user-images.githubusercontent.com/103390623/236186858-7003d018-f123-4607-834f-286b31b273cc.png)
+  
+- Le llamamos AutoRun
+![image](https://user-images.githubusercontent.com/103390623/236188026-db5068a9-9bee-49ff-b50c-d4dee86f5bdf.png)
