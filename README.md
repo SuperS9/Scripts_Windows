@@ -8,7 +8,7 @@ Pequeñas automatizaciones en windows
 - Vamos a Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor
 ![image](https://user-images.githubusercontent.com/103390623/236186371-fc6ca3ba-d3fd-44fe-9a0a-2d4a02bf8fc7.png)
 
-- Click derecho > Nuevo > Valor de cadena
+- Click derecho > Nuevo > Valor de cadena  
 ![image](https://user-images.githubusercontent.com/103390623/236186858-7003d018-f123-4607-834f-286b31b273cc.png)
   
 - Le llamamos AutoRun  
