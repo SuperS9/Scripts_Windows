@@ -16,3 +16,6 @@ Pequeñas automatizaciones en windows
   
 - Le llamamos AutoRun  
 ![image](https://user-images.githubusercontent.com/103390623/236188026-db5068a9-9bee-49ff-b50c-d4dee86f5bdf.png)
+
+- Le damos doble click > Ponemos la dirección donde tenemos el alias (En mi caso C:\Scripts\aliases.bat)  
+![image](https://user-images.githubusercontent.com/103390623/236188441-ee6353a4-bd4b-4df9-ab18-1d273cffc5f2.png)
