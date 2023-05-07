@@ -1,6 +1,4 @@
-<pre><code id="code">
-  Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor
-</code></pre>
+<pre><code id="code">Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor</code></pre>
 
 
 # Scripts_Windows
