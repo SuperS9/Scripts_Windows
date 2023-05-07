@@ -1,15 +1,5 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-
-function helloWorld() {
-  console.log("Hola mundo!");
-}
-
-<button class="btn" data-clipboard-target="#code">Copiar código</button>
-
 <pre><code id="code">
-function helloWorld() {
-  console.log("Hola mundo!");
-}
+  Equipo\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Command Processor
 </code></pre>
 
 
