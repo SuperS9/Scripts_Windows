@@ -1,3 +1,18 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+
+function helloWorld() {
+  console.log("Hola mundo!");
+}
+
+<button class="btn" data-clipboard-target="#code">Copiar código</button>
+
+<pre><code id="code">
+function helloWorld() {
+  console.log("Hola mundo!");
+}
+</code></pre>
+
+
 # Scripts_Windows
 Pequeñas automatizaciones en windows
 
